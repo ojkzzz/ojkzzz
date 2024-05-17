@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ojkzzz
-- 👀 I’m interested in learning some new interesting things
-- 🌱 I’m good at html, css, js, typescript, redux-toolkit, react, bootstrap, MUI, axios, RTK Query and English
-- 💞️ I’m looking to collaborate on positive looking company 
-- 📫 How to reach me ? it is not a problem! just text me at olejkeee43@gmail.com
+Привет! Меня зовут ваше Олег, и я являюсь фронтенд-разработчиком. Я специализируюсь на разработке коммерческих проектов с использованием передовых технологий, таких как React, TypeScript, JavaScript, MUI, Bootstrap, React Router DOM, React Hook Form, Yup и т.д.
 
-<!---
-ojkzzz/ojkzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Я благодарен за проявленный вами интерес к моей работе и профессионализму. Если у вас есть какие-либо вопросы или предложения, пожалуйста, свяжитесь со мной по электронной почте olejkeee43@gmail.com или через Telegram @getOJK.
+
+Thank you for your interest in my work! I am a frontend developer specializing in commercial project development using cutting-edge technologies such as React, TypeScript, JavaScript, MUI, Bootstrap, React Router DOM, React Hook Form and Yup.
+
+Feel free to contact me via email at olejkeee43@gmail.com or through Telegram @getOJK if you have any questions or suggestions.
